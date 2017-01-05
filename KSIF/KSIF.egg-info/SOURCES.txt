@@ -1,0 +1,15 @@
+setup.py
+KSIF/__init__.py
+KSIF.egg-info/PKG-INFO
+KSIF.egg-info/SOURCES.txt
+KSIF.egg-info/dependency_links.txt
+KSIF.egg-info/requires.txt
+KSIF.egg-info/top_level.txt
+KSIF/core/__init__.py
+KSIF/core/algos.py
+KSIF/core/backtest.py
+KSIF/core/base.py
+KSIF/core/data.py
+KSIF/core/ffn.py
+KSIF/core/record.py
+KSIF/core/utils.py

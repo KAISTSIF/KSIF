@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+pyprind
+future
+cython
+tabulate
+sklearn
+scipy
+decorator
